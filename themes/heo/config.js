@@ -53,8 +53,8 @@ const CONFIG = {
       title_1: 'Docker',
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
-      title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      title_2: 'VSCode',
+      img_2: '/images/heo/vscode.512x508.webp',
       color_2: '#4082c3'
     },
     {
@@ -66,24 +66,24 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'github',
+      img_1: '/images/heo/github.512x489.webp',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'Pycharm',
+      img_2: '/images/heo/pycharm.512x512.webp',
       color_2: '#8f55ba'
     },
     {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      title_2: 'datagrip',
+      img_2: '/images/heo/datagrip.512x506.webp',
       color_2: '#2c51db'
     },
     {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      title_1: 'Jupyter',
+      img_1: '/images/heo/jupyter.437x512.webp',
       color_1: '#f7cb4f',
       title_2: 'HTML',
       img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
