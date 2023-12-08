@@ -13,9 +13,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '持续学习',
   HEO_HERO_TITLE_2: '坚持分享',
   HEO_HERO_TITLE_3: '',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: 'I\'m a divergent',
+  HEO_HERO_TITLE_5: 'Check out my Hexo blog',
+  HEO_HERO_TITLE_LINK: 'https://blog.jiaqicai.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -33,7 +33,7 @@ const CONFIG = {
     '🔍 分享与热心帮助',
     // '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    // '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
     // '🧱 团队小组发动机'
   ],
@@ -68,7 +68,7 @@ const CONFIG = {
     {
       title_1: 'github',
       img_1: '/images/heo/github.512x489.webp',
-      color_1: '#eb6840',
+      color_1: '#ffffff',
       title_2: 'Pycharm',
       img_2: '/images/heo/pycharm.512x512.webp',
       color_2: '#8f55ba'
@@ -84,7 +84,7 @@ const CONFIG = {
     {
       title_1: 'Jupyter',
       img_1: '/images/heo/jupyter.437x512.webp',
-      color_1: '#f7cb4f',
+      color_1: '#ffffff',
       title_2: 'HTML',
       img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
       color_2: '#e9572b'
